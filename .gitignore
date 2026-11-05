@@ -1,0 +1,6 @@
+*.bag
+*.db
+*.sqlite
+*.env
+.env
+__pycache__/
